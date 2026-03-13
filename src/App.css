@@ -1,0 +1,23 @@
+.greeting {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+  padding-top: 0;
+  color: red;
+  background-color: pink;
+  border: purple solid;
+  margin-bottom: 3%;
+}
+nav {
+  display: flex;
+  justify-content: space-evenly; /* spreads items evenly */
+  align-items: center;
+  padding: 10px 0;
+}
+.button {
+  color: red;
+  background-color: pink;
+}
+.button-access {
+  justify-content: space-evenly;
+}
